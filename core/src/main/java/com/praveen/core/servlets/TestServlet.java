@@ -1,6 +1,5 @@
 package com.praveen.core.servlets;
 
-import com.day.cq.wcm.msm.api.LiveCopy;
 import com.praveen.core.util.Utility;
 import org.apache.sling.api.SlingHttpServletRequest;
 import org.apache.sling.api.SlingHttpServletResponse;
